@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @collinjhubbard
 - 👀 I’m interested in honing my skills.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on websites who's mission is to drive social change! (Ending Racism, Fighting Climate-Change, Respecting Everyone's Civil Liberties)
 - 📫 How to reach me: Send a message on github
 
