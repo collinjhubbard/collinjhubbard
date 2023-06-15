@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinjhubbard
 - 👀 I’m interested in honing my skills.
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on websites who's mission is to drive social change! (Ending Racism, Fighting Climate-Change, Respecting Everyone's Civil Liberties)
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on websites and projects who's mission is to drive social change! (Ending Racism, Fighting Climate-Change, Respecting Everyone's Civil Liberties)
 - 📫 How to reach me: Send a message on github
 
 <!---
